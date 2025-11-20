@@ -1,0 +1,5 @@
+{
+  "name": "Memory Cycle Tracker",
+  "description": "A professional financial dashboard tracking Taiwan's memory sector stocks. Visualizes the relationship between Revenue and Operating Margin to identify cyclical turning points, powered by Gemini AI analysis.",
+  "requestFramePermissions": []
+}
